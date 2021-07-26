@@ -1,0 +1,56 @@
+html * {
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color:rgb(55, 143, 243);
+  text-align: center;
+  padding: 3px;
+  border-bottom: 5px solid darkblue
+}
+
+h1 {
+  text-align: center;
+  Padding-top: 30pt;
+}
+
+#Rings {
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h3 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+section {
+  display: block;
+  background-color: red;
+  border-bottom: 5px solid darkred;
+  padding: 5px;
+  text-align: center;
+}
+
+#name {
+  margin-top: 5px;
+}
+
+#submit {
+  margin: 5pt
+}
+
+footer {
+  text-align: center;
+  background-color: yellow;
+  border-bottom: 5px solid darkgoldenrod;
+  padding: 5px;
+}
